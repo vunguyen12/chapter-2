@@ -24,7 +24,7 @@ public class simpleCaculator {
             entry2 = inputDevice.nextDouble();
 
             total = entry1 + entry2;
-            System.out.println(entry1 +" + "+entry2 + total);
+            System.out.println(entry1 +" + " + entry2 + "= " + total);
             total = entry1 * entry2;
             System.out.println(entry1 +" X " + entry2 +" = "+ total);
             total = entry1 - entry2;
