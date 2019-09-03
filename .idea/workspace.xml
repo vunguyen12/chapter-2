@@ -39,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SalaryDialog.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SalaryDialog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SalaryDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="90">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuartsToGallonInteractive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/QuartsToGallonInteractive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -67,12 +76,13 @@
         <option value="$PROJECT_DIR$/src/simpleCaculator.java" />
         <option value="$PROJECT_DIR$/src/GetUserInfo.java" />
         <option value="$PROJECT_DIR$/src/SalaryDialog.java" />
+        <option value="$PROJECT_DIR$/src/QuartsToGallonInteractive.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1844" />
-    <option name="y" value="-30" />
+    <option name="x" value="-2086" />
+    <option name="y" value="38" />
     <option name="width" value="1400" />
     <option name="height" value="802" />
   </component>
@@ -118,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SalaryDialog">
+  <component name="RunManager" selected="Application.QuartsToGallonInteractive">
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypes" />
       <module name="chapter-2" />
@@ -126,6 +136,11 @@
     </configuration>
     <configuration name="GetUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GetUserInfo" />
+      <module name="chapter-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="QuartsToGallonInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuartsToGallonInteractive" />
       <module name="chapter-2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -185,9 +200,11 @@
       <item itemvalue="Application.simpleCaculator" />
       <item itemvalue="Application.GetUserInfo" />
       <item itemvalue="Application.SalaryDialog" />
+      <item itemvalue="Application.QuartsToGallonInteractive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuartsToGallonInteractive" />
         <item itemvalue="Application.SalaryDialog" />
         <item itemvalue="Application.GetUserInfo" />
         <item itemvalue="Application.simpleCaculator" />
@@ -281,8 +298,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SalaryDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuartsToGallonInteractive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
