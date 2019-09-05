@@ -12,7 +12,7 @@ public class InchesToFeet {
         userInPut = Integer.parseInt(inchesToFeet);
         feet = userInPut / feet;
         inches = userInPut % inches;
-                JOptionPane.showMessageDialog(null," inches to feet is " + feet + "feet and " + inches + " inches");
+                JOptionPane.showMessageDialog(null," inches to feet is " + feet + " feet and " + inches + " inches");
 
     }
 }
