@@ -2,9 +2,14 @@ import javax.swing.*;
 
 public class Initials {
     public static void main(String[] args) {
-        String userFirstName;
-        userFirstName = JOptionPane.showInputDialog(null ," please enter your name " , " three initials" ,JOptionPane.INFORMATION_MESSAGE);
+        char initialOne = 'J';
+        char initialTwo = 'P';
+        char initialThree = 'B';
+
+        System.out.println(" your initials are " + initialOne +"."+initialTwo+"."+initialThree+".");
+
 
 
     }
-}
+    }
+

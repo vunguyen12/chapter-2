@@ -10,10 +10,10 @@ public class NauticalMiles {
         String convertTo;
 
 
-        convertTo  = JOptionPane.showInputDialog(null, "please enter your number", "convert to NM", JOptionPane.INFORMATION_MESSAGE);
+        convertTo  = JOptionPane.showInputDialog(null, "please enter your number of mile", "convert to NM", JOptionPane.INFORMATION_MESSAGE);
         userInputNM = Double.parseDouble(convertTo);
-        nauticalToMiles = NM_TO_MILE*userInputNM;
-        nauticalToKilometer = NM_TO_KILO*userInputNM;
+        nauticalToMiles = NM_TO_MILE*userInputNM -1 ;
+        nauticalToKilometer = NM_TO_KILO*userInputNM - 1;
 
         JOptionPane.showMessageDialog(null, "your miles to nautical miles is " + nauticalToMiles + " and kilometer is " + nauticalToKilometer);
 
