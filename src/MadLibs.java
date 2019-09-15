@@ -9,25 +9,36 @@ public class MadLibs {
         String noun;
         String pluralNoun;
 
-        int a = 50;
-        int b = 3;
+        int a  ;
+        int b ;
         int c;
 
         Scanner input = new Scanner(System.in);
         System.out.println("enter a color >>>");
         color = input.nextLine();
+
         System.out.println("enter a Word ending in EST");
         Wordest = input.nextLine();
-        System.out.println("Enter a plural body part >>>");
-        bodypart = input.nextLine();
+
+
+
         System.out.println("enter an animal");
         Animal = input.nextLine();
+
         System.out.println("enter a noun");
         noun = input.nextLine();
+
         System.out.println("enter a plural noun");
         pluralNoun= input.nextLine();
 
+        System.out.println("Enter a plural body part >>>");
+        bodypart = input.nextLine();
 
+        System.out.println("enter a number ");
+        a = input.nextInt();
+
+        System.out.println("enter another number");
+        b= input.nextInt();
 
         c = a % b;
 
